@@ -23,6 +23,25 @@ Here is a beer: ![beer](pinner.jpg)
 
 Here is Aubrey: ![Aubrey](Aubrey.jpg)
 
-Here is a figure: ![figure](ActionAlt.png)
+Here is a figure (from .png file): ![figure](ActionAlt.png)
 
-*Note*: file names can't have spaces when insertig figures and pictures. 
+*Note*: file names can't have spaces when inserting figures and pictures. 
+
+Now I'm going to try to insert a figure directly with code:
+```{r echo = FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = "none") +
+  theme_bw() 
+oplot
+```
+
+```{r}
+summary(Orange)
+```
+
+Adding more text so as to make the file different. 
