@@ -1,0 +1,28 @@
+---
+title: Hi Hugo
+author: ''
+date: '2021-06-23'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-23T21:33:18-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I'm just testing out inserting some pictures and images.
+
+Here is a beer: ![beer](pinner.jpg)
+
+Here is Aubrey: ![Aubrey](Aubrey.jpg)
+
+Here is a figure: ![figure](ActionAlt.png)
+
+*Note*: file names can't have spaces when insertig figures and pictures. 
