@@ -32,7 +32,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/jakeday4
+  link: https://twitter.com/Jake_Day4
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=R0-2KvsAAAAJ
