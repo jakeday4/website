@@ -5,18 +5,15 @@
 
 main:
   - name: Home
-    url: about/
+    url: '#about'
     weight: 1
   - name: Publications
-    url: publication/
+    url: '#publications'
     weight: 2
   - name: Talks
-    url: talks/
+    url: '#talks'
     weight: 3
-  - name: Courses
-    url: courses/name
-    weight: 4
-    
+
   # - name: Demo
   #   url: '#about'
   #   weight: 10
