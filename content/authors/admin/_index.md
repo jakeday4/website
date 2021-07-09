@@ -46,6 +46,6 @@ superuser: true
 title: Jake Day
 ---
 
-Jake Day is an associate professor of criminology at the University of North Carolina Wilimington. His research centers on social capital, segregation, and race inequality in labor markets as well as criminological theory and criminal and juvenile justice policy. 
+I am an associate professor of criminology at the University of North Carolina Wilmington. My research centers on social capital, segregation, and race inequality in labor markets as well as criminological theory and criminal and juvenile justice policy. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/day_cv_sept2020.pdf" "newtab" >}}cv{{< /staticref >}}.
