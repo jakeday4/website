@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research centers on social capital, segregation, and race inequality in labor markets as well as criminological theory and criminal and juvenile justice policy.
 education:
   courses:
   - course: PhD in Sociology
@@ -11,7 +11,7 @@ education:
   - course: BS in Sociology
     institution: Oregon State University
     year: 2003
-email: ""
+email: "jakeday4@gmail.com"
 highlight_name: false
 interests:
 - Criminological Theory
