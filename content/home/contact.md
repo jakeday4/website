@@ -4,7 +4,7 @@
 widget: contact
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -23,7 +23,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: test
+      id: jakeday4@gmail.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
