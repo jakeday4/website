@@ -26,7 +26,7 @@ role: Associate Professor of Criminology
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:jakeday4@gmail.com #/#contact
 - display:
     header: true
   icon: twitter

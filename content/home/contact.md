@@ -4,7 +4,7 @@
 widget: contact
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Contact
+title: Contact Information
 subtitle:
 
 content:
@@ -20,13 +20,13 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: jakeday4@gmail.com
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: formspree
+  #   formspree:
+  #     id: jakeday4@gmail.com
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
   
 design:
   columns: '2'
